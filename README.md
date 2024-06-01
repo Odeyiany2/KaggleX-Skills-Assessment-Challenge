@@ -1,3 +1,5 @@
+![image](https://github.com/Odeyiany2/KaggleX-Skills-Assessment-Challenge/blob/main/used_car.jpg)
+
 # Used Car Price Prediction using Traditional Machine Learning Models and Neural Networks
 
 This project is for a KaggleX Skills Assessment Challenge. Based on certain features I will be building a model that can predict the price of a used car. 
